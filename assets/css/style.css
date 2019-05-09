@@ -24,6 +24,10 @@ ul{
   list-style-type: none;
 }
 
+#leftSide{
+  float: left;
+}
+
 hr{
   border-top: solid 2px #dddddd;
 }
