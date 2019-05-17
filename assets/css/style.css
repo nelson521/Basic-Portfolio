@@ -41,6 +41,7 @@ ul{
   list-style-type: none;
   float: right;
   display: inline;
+
 }
 
 #leftSide{
@@ -93,3 +94,16 @@ footer{
 footer, .content::after{
   height: 90px;
 }
+
+input{
+  width: 100%;
+}
+
+textarea{
+  width: 100%;
+}
+
+/* .rightSide{ 
+  display: block;
+  float: right;
+} */
